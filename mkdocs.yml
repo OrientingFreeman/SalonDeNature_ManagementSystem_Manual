@@ -11,6 +11,7 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
     - navigation.top
@@ -59,6 +60,7 @@ extra_css:
 
 nav:
   - 홈: index.md
+  - 관리자 대시보드: admin/dashboard.md
   - 시작하기:
       - 시스템 소개와 로그인: getting-started/index.md
   - 예약 관리:
